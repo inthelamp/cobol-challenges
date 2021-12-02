@@ -28,7 +28,7 @@ Solutions for challenges presented at [COBOL Programming Course](https://github.
 >> [UnemploymentClaims](https://github.com/inthelamp/cobol-challenges/blob/main/controllers/UnemploymentClaims.js) <br />
 
 > Features
->> VSAM KSDS
->> Dynamic Access
->> Defining variable-length records
->> Read, Delete, Insert and Update functions
+>> VSAM KSDS <br />
+>> Dynamic Access <br />
+>> Defining variable-length records <br />
+>> Read, Delete, Insert and Update functions 
