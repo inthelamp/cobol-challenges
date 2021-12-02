@@ -1,0 +1,201 @@
+                                                                   Covid-19 Report By Country
+                                                                                                                                    Year 2021  Month 12  Day 01
+
+ ************************  *********************************  *******  **********************************  *******  *********  *****  *******  *******  *******
+        TIMESTAMP                      COUNTRY                COUNTRY                 SLUG                   NEW      TOTAL     NEW    TOTAL     NEW     TOTAL
+                                                               CODE                                         CASES     CASES    DEATH   DEATH   RECOVER  RECOVER
+ ************************  *********************************  *******  **********************************  *******  *********  *****  *******  *******  *******
+ 2021-12-01T17:40:54.92Z             "Afghanistan"             "AF"              "afghanistan"                0      157289      0     7308       0        0
+ 2021-12-01T17:40:54.92Z               "Albania"               "AL"                "albania"                  0      199945      0     3096       0        0
+ 2021-12-01T17:40:54.92Z               "Algeria"               "DZ"                "algeria"                  0      210531      0     6071       0        0
+ 2021-12-01T17:40:54.92Z               "Andorra"               "AD"                "andorra"                  0       17115      0      131       0        0
+ 2021-12-01T17:40:54.92Z               "Angola"                "AO"                 "angola"                  0       65168      0     1733       0        0
+ 2021-12-01T17:40:54.92Z         "Antigua and Barbuda"         "AG"          "antigua-and-barbuda"            0       4141       0      117       0        0
+ 2021-12-01T17:40:54.92Z              "Argentina"              "AR"               "argentina"                 0      5330748     0    116589      0        0
+ 2021-12-01T17:40:54.92Z               "Armenia"               "AM"                "armenia"                  0      338518      0     7567       0        0
+ 2021-12-01T17:40:54.92Z              "Australia"              "AU"               "australia"               1417     211655      5     2011       0        0
+ 2021-12-01T17:40:54.92Z               "Austria"               "AT"                "austria"                  0      1159995     0     12492      0        0
+ 2021-12-01T17:40:54.92Z             "Azerbaijan"              "AZ"               "azerbaijan"                0      588318      0     7856       0        0
+ 2021-12-01T17:40:54.92Z               "Bahamas"               "BS"                "bahamas"                  0       22791      0      671       0        0
+ 2021-12-01T17:40:54.92Z               "Bahrain"               "BH"                "bahrain"                  0      277690      0     1394       0        0
+ 2021-12-01T17:40:54.92Z             "Bangladesh"              "BD"               "bangladesh"                0      1576284     0     27981      0        0
+ 2021-12-01T17:40:54.92Z              "Barbados"               "BB"                "barbados"                 0       25316      0      229       0        0
+ 2021-12-01T17:40:54.92Z               "Belarus"               "BY"                "belarus"                  0      654718      0     5081       0        0
+ 2021-12-01T17:40:54.92Z               "Belgium"               "BE"                "belgium"                16566    1766035    49     27015      0        0
+ 2021-12-01T17:40:54.92Z               "Belize"                "BZ"                 "belize"                  0       30431      0      578       0        0
+ 2021-12-01T17:40:54.92Z                "Benin"                "BJ"                 "benin"                   0       24850      0      161       0        0
+ 2021-12-01T17:40:54.92Z               "Bhutan"                "BT"                 "bhutan"                  0       2640       0       3        0        0
+ 2021-12-01T17:40:54.92Z               "Bolivia"               "BO"                "bolivia"                  0      537559      0     19171      0        0
+ 2021-12-01T17:40:54.92Z       "Bosnia and Herzegovina"        "BA"         "bosnia-and-herzegovina"          0      275065      0     12586      0        0
+ 2021-12-01T17:40:54.92Z              "Botswana"               "BW"                "botswana"                 0      195068      0     2418       0        0
+ 2021-12-01T17:40:54.92Z               "Brazil"                "BR"                 "brazil"                9710    22094459    305   614681      0        0
+ 2021-12-01T17:40:54.92Z          "Brunei Darussalam"          "BN"                 "brunei"                  0       15058      0      97        0        0
+ 2021-12-01T17:40:54.92Z              "Bulgaria"               "BG"                "bulgaria"                 0      695057      0     28453      0        0
+ 2021-12-01T17:40:54.92Z            "Burkina Faso"             "BF"              "burkina-faso"               0       16000      0      286       0        0
+ 2021-12-01T17:40:54.92Z               "Burundi"               "BI"                "burundi"                  0       20415      0      38        0        0
+ 2021-12-01T17:40:54.92Z              "Cambodia"               "KH"                "cambodia"                 0      120134      0     2940       0        0
+ 2021-12-01T17:40:54.92Z              "Cameroon"               "CM"                "cameroon"                 0      106794      0     1791       0        0
+ 2021-12-01T17:40:54.92Z               "Canada"                "CA"                 "canada"                2114     1465594    11     26490      0        0
+ 2021-12-01T17:40:54.92Z             "Cape Verde"              "CV"               "cape-verde"                0       38370      0      349       0        0
+ 2021-12-01T17:40:54.92Z      "Central African Republic"       "CF"        "central-african-republic"         0       11708      0      101       0        0
+ 2021-12-01T17:40:54.92Z                "Chad"                 "TD"                  "chad"                   0       5107       0      175       0        0
+ 2021-12-01T17:40:54.92Z                "Chile"                "CL"                 "chile"                 1386     1762751     3     38346      0        0
+ 2021-12-01T17:40:54.92Z                "China"                "CN"                 "china"                  119     111337      0     4849       0        0
+ 2021-12-01T17:40:54.92Z              "Colombia"               "CO"                "colombia"               2296     5069644    55    128528      0        0
+ 2021-12-01T17:40:54.92Z               "Comoros"               "KM"                "comoros"                  0       4501       0      150       0        0
+ 2021-12-01T17:40:54.92Z         "Congo (Brazzaville)"         "CG"           "congo-brazzaville"             0       18970      0      354       0        0
+ 2021-12-01T17:40:54.92Z          "Congo (Kinshasa)"           "CD"             "congo-kinshasa"              0       58234      0     1107       0        0
+ 2021-12-01T17:40:54.92Z             "Costa Rica"              "CR"               "costa-rica"                0      566839      0     7299       0        0
+ 2021-12-01T17:40:54.92Z               "Croatia"               "HR"                "croatia"                  0      608205      0     10899      0        0
+ 2021-12-01T17:40:54.92Z                "Cuba"                 "CU"                  "cuba"                   0      962486      0     8304       0        0
+ 2021-12-01T17:40:54.92Z               "Cyprus"                "CY"                 "cyprus"                  0      134473      0      597       0        0
+ 2021-12-01T17:40:54.92Z           "Czech Republic"            "CZ"             "czech-republic"              0      2150042     0     33069      0        0
+ 2021-12-01T17:40:54.92Z            "C�te d'Ivoire"            "CI"              "cote-divoire"               0       61724      0      704       0        0
+ 2021-12-01T17:40:54.92Z               "Denmark"               "DK"                "denmark"                  0      492483      0     2908       0        0
+ 2021-12-01T17:40:54.92Z              "Djibouti"               "DJ"                "djibouti"                 0       13504      0      186       0        0
+ 2021-12-01T17:40:54.92Z              "Dominica"               "DM"                "dominica"                 0       6028       0      38        0        0
+ 2021-12-01T17:40:54.92Z         "Dominican Republic"          "DO"           "dominican-republic"            0      407251      0     4204       0        0
+ 2021-12-01T17:40:54.92Z               "Ecuador"               "EC"                "ecuador"                  0      526870      0     33250      0        0
+ 2021-12-01T17:40:54.92Z                "Egypt"                "EG"                 "egypt"                   0      358578      0     20474      0        0
+ 2021-12-01T17:40:54.92Z             "El Salvador"             "SV"              "el-salvador"                0      119803      0     3776       0        0
+ 2021-12-01T17:40:54.92Z          "Equatorial Guinea"          "GQ"           "equatorial-guinea"             0       13592      0      175       0        0
+ 2021-12-01T17:40:54.92Z               "Eritrea"               "ER"                "eritrea"                  0       7358       0      60        0        0
+ 2021-12-01T17:40:54.92Z               "Estonia"               "EE"                "estonia"                  0      222584      0     1800       0        0
+ 2021-12-01T17:40:54.92Z              "Ethiopia"               "ET"                "ethiopia"                 0      371536      0     6755       0        0
+ 2021-12-01T17:40:54.92Z                "Fiji"                 "FJ"                  "fiji"                   0       52506      0      696       0        0
+ 2021-12-01T17:40:54.92Z               "Finland"               "FI"                "finland"                  0      186538      0     1335       0        0
+ 2021-12-01T17:40:54.92Z               "France"                "FR"                 "france"                  0      7778575     0    120112      0        0
+ 2021-12-01T17:40:54.92Z                "Gabon"                "GA"                 "gabon"                   0       37342      0      279       0        0
+ 2021-12-01T17:40:54.92Z               "Gambia"                "GM"                 "gambia"                  0       9989       0      342       0        0
+ 2021-12-01T17:40:54.92Z               "Georgia"               "GE"                "georgia"                  0      845643      0     12054      0        0
+ 2021-12-01T17:40:54.92Z               "Germany"               "DE"                "germany"                68680    5923564    444   101794      0        0
+ 2021-12-01T17:40:54.92Z                "Ghana"                "GH"                 "ghana"                   0      130920      0     1209       0        0
+ 2021-12-01T17:40:54.92Z               "Greece"                "GR"                 "greece"                  0      938903      0     18157      0        0
+ 2021-12-01T17:40:54.92Z               "Grenada"               "GD"                "grenada"                  0       5897       0      200       0        0
+ 2021-12-01T17:40:54.92Z              "Guatemala"              "GT"               "guatemala"                 0      617984      0     15943      0        0
+ 2021-12-01T17:40:54.92Z               "Guinea"                "GN"                 "guinea"                  0       30770      0      387       0        0
+ 2021-12-01T17:40:54.92Z            "Guinea-Bissau"            "GW"             "guinea-bissau"               0       6440       0      148       0        0
+ 2021-12-01T17:40:54.92Z               "Guyana"                "GY"                 "guyana"                  0       37874      0      994       0        0
+ 2021-12-01T17:40:54.92Z                "Haiti"                "HT"                 "haiti"                   0       25175      0      738       0        0
+ 2021-12-01T17:40:54.92Z    "Holy See (Vatican City State)"    "VA"      "holy-see-vatican-city-state"        0        27        0       0        0        0
+ 2021-12-01T17:40:54.92Z              "Honduras"               "HN"                "honduras"                 0      377859      0     10402      0        0
+ 2021-12-01T17:40:54.92Z               "Hungary"               "HU"                "hungary"                  0      1103108     0     34521      0        0
+ 2021-12-01T17:40:54.92Z               "Iceland"               "IS"                "iceland"                  0       17894      0      35        0        0
+ 2021-12-01T17:40:54.92Z                "India"                "IN"                 "india"                 8954    34596776    267   469247      0        0
+ 2021-12-01T17:40:54.92Z              "Indonesia"              "ID"               "indonesia"                 0      4256409     0    143830      0        0
+ 2021-12-01T17:40:54.92Z      "Iran, Islamic Republic of"      "IR"                  "iran"                   0      6117445     0    129830      0        0
+ 2021-12-01T17:40:54.92Z                "Iraq"                 "IQ"                  "iraq"                   0      2081172     0     23820      0        0
+ 2021-12-01T17:40:54.92Z               "Ireland"               "IE"                "ireland"                  0      570115      0     5652       0        0
+ 2021-12-01T17:40:54.92Z               "Israel"                "IL"                 "israel"                  0      1343660     0     8196       0        0
+ 2021-12-01T17:40:54.92Z                "Italy"                "IT"                 "italy"                 12757    5028547    89    133828      0        0
+ 2021-12-01T17:40:54.92Z               "Jamaica"               "JM"                "jamaica"                  0       91249      0     2392       0        0
+ 2021-12-01T17:40:54.92Z                "Japan"                "JP"                 "japan"                  81      1726636     2     18357      0        0
+ 2021-12-01T17:40:54.92Z               "Jordan"                "JO"                 "jordan"                  0      953943      0     11608      0        0
+ 2021-12-01T17:40:54.92Z             "Kazakhstan"              "KZ"               "kazakhstan"                0      1054972     0     17845      0        0
+ 2021-12-01T17:40:54.92Z                "Kenya"                "KE"                 "kenya"                   0      255088      0     5335       0        0
+ 2021-12-01T17:40:54.92Z              "Kiribati"               "KI"                "kiribati"                 0         2        0       0        0        0
+ 2021-12-01T17:40:54.92Z            "Korea (South)"            "KR"              "korea-south"                0      452350      0     3659       0        0
+ 2021-12-01T17:40:54.92Z               "Kuwait"                "KW"                 "kuwait"                  0      413362      0     2465       0        0
+ 2021-12-01T17:40:54.92Z             "Kyrgyzstan"              "KG"               "kyrgyzstan"                0      183351      0     2746       0        0
+ 2021-12-01T17:40:54.92Z               "Lao PDR"               "LA"                "lao-pdr"                  0       73738      0      170       0        0
+ 2021-12-01T17:40:54.92Z               "Latvia"                "LV"                 "latvia"                  0      253659      0     4179       0        0
+ 2021-12-01T17:40:54.92Z               "Lebanon"               "LB"                "lebanon"                  0      670656      0     8725       0        0
+ 2021-12-01T17:40:54.92Z               "Lesotho"               "LS"                "lesotho"                  0       21779      0      662       0        0
+ 2021-12-01T17:40:54.92Z               "Liberia"               "LR"                "liberia"                  0       5824       0      287       0        0
+ 2021-12-01T17:40:54.92Z                "Libya"                "LY"                 "libya"                   0      372636      0     5456       0        0
+ 2021-12-01T17:40:54.92Z            "Liechtenstein"            "LI"             "liechtenstein"               0       4678       0      61        0        0
+ 2021-12-01T17:40:54.92Z              "Lithuania"              "LT"               "lithuania"                 0      470298      0     6737       0        0
+ 2021-12-01T17:40:54.92Z             "Luxembourg"              "LU"               "luxembourg"                0       89181      0      875       0        0
+ 2021-12-01T17:40:54.92Z       "Macedonia, Republic of"        "MK"               "macedonia"                 0      215585      0     7581       0        0
+ 2021-12-01T17:40:54.92Z             "Madagascar"              "MG"               "madagascar"                0       44330      0      967       0        0
+ 2021-12-01T17:40:54.92Z               "Malawi"                "MW"                 "malawi"                  0       61916      0     2306       0        0
+ 2021-12-01T17:40:54.92Z              "Malaysia"               "MY"                "malaysia"               4879     2632782    55     30425      0        0
+ 2021-12-01T17:40:54.92Z              "Maldives"               "MV"                "maldives"                 0       91650      0      250       0        0
+ 2021-12-01T17:40:54.92Z                "Mali"                 "ML"                  "mali"                   0       17434      0      606       0        0
+ 2021-12-01T17:40:54.92Z                "Malta"                "MT"                 "malta"                   0       39435      0      468       0        0
+ 2021-12-01T17:40:54.92Z          "Marshall Islands"           "MH"            "marshall-islands"             0         4        0       0        0        0
+ 2021-12-01T17:40:54.92Z             "Mauritania"              "MR"               "mauritania"                0       39266      0      832       0        0
+ 2021-12-01T17:40:54.92Z              "Mauritius"              "MU"               "mauritius"                 0       21040      0      240       0        0
+ 2021-12-01T17:40:54.92Z               "Mexico"                "MX"                 "mexico"                  0      3884566     0    293950      0        0
+ 2021-12-01T17:40:54.92Z   "Micronesia, Federated States of"   "FM"               "micronesia"                0         1        0       0        0        0
+ 2021-12-01T17:40:54.92Z               "Moldova"               "MD"                "moldova"                  0      363774      0     9119       0        0
+ 2021-12-01T17:40:54.92Z               "Monaco"                "MC"                 "monaco"                  0       3738       0      36        0        0
+ 2021-12-01T17:40:54.92Z              "Mongolia"               "MN"                "mongolia"                 0      382082      0     2005       0        0
+ 2021-12-01T17:40:54.92Z             "Montenegro"              "ME"               "montenegro"                0      157376      0     2307       0        0
+ 2021-12-01T17:40:54.92Z               "Morocco"               "MA"                "morocco"                  0      949917      0     14776      0        0
+ 2021-12-01T17:40:54.92Z             "Mozambique"              "MZ"               "mozambique"                0      151548      0     1941       0        0
+ 2021-12-01T17:40:54.92Z               "Myanmar"               "MM"                "myanmar"                  0      522402      0     19104      0        0
+ 2021-12-01T17:40:54.92Z               "Namibia"               "NA"                "namibia"                  0      129187      0     3573       0        0
+ 2021-12-01T17:40:54.92Z                "Nepal"                "NP"                 "nepal"                   0      821366      0     11526      0        0
+ 2021-12-01T17:40:54.92Z             "Netherlands"             "NL"              "netherlands"              22154    2643176    65     19414      0        0
+ 2021-12-01T17:40:54.92Z             "New Zealand"             "NZ"              "new-zealand"                0       11724      0      44        0        0
+ 2021-12-01T17:40:54.92Z              "Nicaragua"              "NI"               "nicaragua"                 0       17254      0      212       0        0
+ 2021-12-01T17:40:54.92Z                "Niger"                "NE"                 "niger"                   0       7007       0      259       0        0
+ 2021-12-01T17:40:54.92Z               "Nigeria"               "NG"                "nigeria"                  0      214218      0     2977       0        0
+ 2021-12-01T17:40:54.92Z               "Norway"                "NO"                 "norway"                  0      267843      0     1054       0        0
+ 2021-12-01T17:40:54.92Z                "Oman"                 "OM"                  "oman"                   0      304554      0     4113       0        0
+ 2021-12-01T17:40:54.92Z              "Pakistan"               "PK"                "pakistan"                414     1285254     9     28737      0        0
+ 2021-12-01T17:40:54.92Z                "Palau"                "PW"                 "palau"                   0         8        0       0        0        0
+ 2021-12-01T17:40:54.92Z        "Palestinian Territory"        "PS"               "palestine"                 0      460053      0     4796       0        0
+ 2021-12-01T17:40:54.92Z               "Panama"                "PA"                 "panama"                  0      477742      0     7365       0        0
+ 2021-12-01T17:40:54.92Z          "Papua New Guinea"           "PG"            "papua-new-guinea"             0       35179      0      546       0        0
+ 2021-12-01T17:40:54.92Z              "Paraguay"               "PY"                "paraguay"                 0      463058      0     16472      0        0
+ 2021-12-01T17:40:54.92Z                "Peru"                 "PE"                  "peru"                 1381     2236351    32    201176      0        0
+ 2021-12-01T17:40:54.92Z             "Philippines"             "PH"              "philippines"                0      2832734     0     48545      0        0
+ 2021-12-01T17:40:54.92Z               "Poland"                "PL"                 "poland"                  0      3540061     0     83583      0        0
+ 2021-12-01T17:40:54.92Z              "Portugal"               "PT"                "portugal"                 0      1147249     0     18441      0        0
+ 2021-12-01T17:40:54.92Z                "Qatar"                "QA"                 "qatar"                   0      243447      0      611       0        0
+ 2021-12-01T17:40:54.92Z         "Republic of Kosovo"          "XK"                 "kosovo"                  0      161091      0     2984       0        0
+ 2021-12-01T17:40:54.92Z               "Romania"               "RO"                "romania"                  0      1779667     0     56529      0        0
+ 2021-12-01T17:40:54.92Z         "Russian Federation"          "RU"                 "russia"                31990    9468640   1195   269900      0        0
+ 2021-12-01T17:40:54.92Z               "Rwanda"                "RW"                 "rwanda"                  0      100349      0     1342       0        0
+ 2021-12-01T17:40:54.92Z        "Saint Kitts and Nevis"        "KN"         "saint-kitts-and-nevis"           0       2786       0      28        0        0
+ 2021-12-01T17:40:54.92Z             "Saint Lucia"             "LC"              "saint-lucia"                0       13000      0      280       0        0
+ 2021-12-01T17:40:54.92Z    "Saint Vincent and Grenadines"     "VC"    "saint-vincent-and-the-grenadines"     0       5525       0      74        0        0
+ 2021-12-01T17:40:54.92Z                "Samoa"                "WS"                 "samoa"                   0         3        0       0        0        0
+ 2021-12-01T17:40:54.92Z             "San Marino"              "SM"               "san-marino"                0       6039       0      93        0        0
+ 2021-12-01T17:40:54.92Z        "Sao Tome and Principe"        "ST"         "sao-tome-and-principe"           0       3731       0      56        0        0
+ 2021-12-01T17:40:54.92Z            "Saudi Arabia"             "SA"              "saudi-arabia"               0      549752      0     8836       0        0
+ 2021-12-01T17:40:54.92Z               "Senegal"               "SN"                "senegal"                  0       73987      0     1885       0        0
+ 2021-12-01T17:40:54.92Z               "Serbia"                "RS"                 "serbia"                  0      1254845     0     11691      0        0
+ 2021-12-01T17:40:54.92Z             "Seychelles"              "SC"               "seychelles"                0       23417      0      125       0        0
+ 2021-12-01T17:40:54.92Z            "Sierra Leone"             "SL"              "sierra-leone"               0       6402       0      121       0        0
+ 2021-12-01T17:40:54.92Z              "Singapore"              "SG"               "singapore"                 0      264725      0      718       0        0
+ 2021-12-01T17:40:54.92Z              "Slovakia"               "SK"                "slovakia"                 0      1170200     0     14418      0        0
+ 2021-12-01T17:40:54.92Z              "Slovenia"               "SI"                "slovenia"                 0      420898      0     5224       0        0
+ 2021-12-01T17:40:54.92Z           "Solomon Islands"           "SB"            "solomon-islands"              0        20        0       0        0        0
+ 2021-12-01T17:40:54.92Z               "Somalia"               "SO"                "somalia"                  0       23016      0     1327       0        0
+ 2021-12-01T17:40:54.92Z            "South Africa"             "ZA"              "south-africa"               0      2968052     0     89843      0        0
+ 2021-12-01T17:40:54.92Z             "South Sudan"             "SS"              "south-sudan"                0       12758      0      133       0        0
+ 2021-12-01T17:40:54.92Z                "Spain"                "ES"                 "spain"                 10261    5164184    44     88052      0        0
+ 2021-12-01T17:40:54.92Z              "Sri Lanka"              "LK"               "sri-lanka"                 0      563989      0     14346      0        0
+ 2021-12-01T17:40:54.92Z                "Sudan"                "SD"                 "sudan"                   0       43084      0     3159       0        0
+ 2021-12-01T17:40:54.92Z              "Suriname"               "SR"                "suriname"                 0       50848      0     1167       0        0
+ 2021-12-01T17:40:54.92Z              "Swaziland"              "SZ"               "swaziland"                 0       46656      0     1248       0        0
+ 2021-12-01T17:40:54.92Z               "Sweden"                "SE"                 "sweden"                6011     1204859     6     15151      0        0
+ 2021-12-01T17:40:54.92Z             "Switzerland"             "CH"              "switzerland"                0      1014662     0     11522      0        0
+ 2021-12-01T17:40:54.92Z    "Syrian Arab Republic (Syria)"     "SY"                 "syria"                   0       48170      0     2749       0        0
+ 2021-12-01T17:40:54.92Z      "Taiwan, Republic of China"      "TW"                 "taiwan"                  0       16601      0      848       0        0
+ 2021-12-01T17:40:54.92Z             "Tajikistan"              "TJ"               "tajikistan"                0       17493      0      125       0        0
+ 2021-12-01T17:40:54.92Z    "Tanzania, United Republic of"     "TZ"                "tanzania"                 0       26270      0      730       0        0
+ 2021-12-01T17:40:54.92Z              "Thailand"               "TH"                "thailand"                 0      2115872     0     20771      0        0
+ 2021-12-01T17:40:54.92Z             "Timor-Leste"             "TL"              "timor-leste"                0       19823      0      122       0        0
+ 2021-12-01T17:40:54.92Z                "Togo"                 "TG"                  "togo"                   0       26265      0      243       0        0
+ 2021-12-01T17:40:54.92Z                "Tonga"                "TO"                 "tonga"                   0         1        0       0        0        0
+ 2021-12-01T17:40:54.92Z         "Trinidad and Tobago"         "TT"          "trinidad-and-tobago"            0       71361      0     2158       0        0
+ 2021-12-01T17:40:54.92Z               "Tunisia"               "TN"                "tunisia"                  0      717572      0     25373      0        0
+ 2021-12-01T17:40:54.92Z               "Turkey"                "TR"                 "turkey"                  0      8797558     0     76842      0        0
+ 2021-12-01T17:40:54.92Z               "Uganda"                "UG"                 "uganda"                  0      127550      0     3252       0        0
+ 2021-12-01T17:40:54.92Z               "Ukraine"               "UA"                "ukraine"                11212    3606622    595    91268      0        0
+ 2021-12-01T17:40:54.92Z        "United Arab Emirates"         "AE"          "united-arab-emirates"           0      742041      0     2147       0        0
+ 2021-12-01T17:40:54.92Z           "United Kingdom"            "GB"             "united-kingdom"            40501   10285745    161   145414      0        0
+ 2021-12-01T17:40:54.92Z      "United States of America"       "US"             "united-states"            116588   48554890   1539   780140      0        0
+ 2021-12-01T17:40:54.92Z               "Uruguay"               "UY"                "uruguay"                  0      399695      0     6131       0        0
+ 2021-12-01T17:40:54.92Z             "Uzbekistan"              "UZ"               "uzbekistan"                0      193208      0     1402       0        0
+ 2021-12-01T17:40:54.92Z               "Vanuatu"               "VU"                "vanuatu"                  0         6        0       1        0        0
+ 2021-12-01T17:40:54.92Z   "Venezuela (Bolivarian Republic)"   "VE"               "venezuela"                 0      431296      0     5144       0        0
+ 2021-12-01T17:40:54.92Z              "Viet Nam"               "VN"                "vietnam"                  0      1238082     0     25252      0        0
+ 2021-12-01T17:40:54.92Z                "Yemen"                "YE"                 "yemen"                   0       10004      0     1950       0        0
+ 2021-12-01T17:40:54.92Z               "Zambia"                "ZM"                 "zambia"                  0      210169      0     3667       0        0
+ 2021-12-01T17:40:54.92Z              "Zimbabwe"               "ZW"                "zimbabwe"                 0      134625      0     4707       0        0
+ ************************  *********************************  *******  **********************************  *******  *********  *****  *******  *******  *******

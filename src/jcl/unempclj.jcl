@@ -1,0 +1,54 @@
+//UNEMPCLJ JOB 1,NOTIFY=&SYSUID
+//***************************************************/
+//COBRUN  EXEC IGYWCL
+//COBOL.SYSIN  DD DSN=&SYSUID..CBL(GETCLAIM),DISP=SHR
+//LKED.SYSLMOD DD DSN=&SYSUID..LOAD(GETCLAIM),DISP=SHR
+//***************************************************/
+// IF RC = 0 THEN
+//***************************************************/
+//COBRUN  EXEC IGYWCL
+//COBOL.SYSIN  DD DSN=&SYSUID..CBL(UNEMPCLM),DISP=SHR
+//LKED.SYSLMOD DD DSN=&SYSUID..LOAD(UNEMPCLM),DISP=SHR
+//LKED.SYSLIB  DD DSN=&SYSUID..LOAD(GETCLAIM),DISP=SHR
+//***************************************************/
+// IF RC = 0 THEN
+//***************************************************/
+//RUN     EXEC PGM=UNEMPCLM
+//STEPLIB   DD DSN=&SYSUID..LOAD,DISP=SHR
+//CLAIMS    DD DSN=&SYSUID..VSAM,DISP=SHR
+//OUTCLAIM  DD SYSOUT=*,OUTLIM=15000
+//SYSOUT    DD SYSOUT=*,OUTLIM=15000
+//***************************************************/
+//*  RECORD-ID AND NUMBER OF RECORDS TO GET
+//*  CATEGORY IF NUMBER OF RECORDS IS GREATER THAN ONE
+//***************************************************/
+//*R 00000000 200 BY AGE
+//*D 01012017
+//***************************************************/
+//SYSIN     DD *
+D 01012017
+
+
+
+I 01012017,2017-01-01T00:00:00,0,588,1527,8283,8412,8700,4529,2971,2444,5584,167
+6,30172,1777,1239,1440,7046,766,3851,482,411,43,3695,560,1460,597,776,167,584,16
+2,2638,1724,4972,3042,3287,26362,392,6461,226,704,78,14186,23167
+
+U 01012017,2017-01-01T00:00:00,0,400,1000,8000,8412,8700,4529,2971,2444,5584,167
+6,30172,1777,1239,1440,8000,766,3851,482,411,43,4000,560,1460,597,776,167,584,16
+2,2638,1724,4972,3042,3287,26362,392,6461,226,704,78,14186,23167
+
+R 01012017 020 BY INDUSTRY
+
+
+
+E
+/*
+//***************************************************/
+//CEEDUMP   DD DUMMY
+//SYSUDUMP  DD DUMMY
+//***************************************************/
+// ELSE
+// ENDIF
+// ELSE
+// ENDIF

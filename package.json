@@ -1,0 +1,36 @@
+{
+  "name": "cobol-challenges",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "downloadCBL": "zowe files download am \"${npm_package_config_userid}.CBL\" -e \".cbl\" --directory \"./src/cbl\"",
+    "downloadJCL": "zowe files download am \"${npm_package_config_userid}.JCL\" -e \".jcl\" --directory \"./src/jcl\"",
+    "uploadData": "zowe files upload file-to-data-set \"${npm_package_config_data}\" \"${npm_package_config_userid}.DATA\"",
+    "uploadCBL": "zowe zos-files upload file-to-data-set \"./src/cbl/${npm_package_config_cbl}.cbl\" \"${npm_package_config_userid}.CBL(${npm_package_config_cbl})\"",
+    "uploadSUB": "zowe zos-files upload file-to-data-set \"./src/cbl/${npm_package_config_sub}.cbl\" \"${npm_package_config_userid}.CBL(${npm_package_config_sub})\"",
+    "uploadJCL": "zowe zos-files upload file-to-data-set \"./src/jcl/${npm_package_config_jcl}.jcl\" \"${npm_package_config_userid}.JCL(${npm_package_config_jcl})\"",
+    "submit": "zowe jobs submit ds ''${npm_package_config_userid}'.JCL('${npm_package_config_jcl}')' --directory \"./output\"",
+    "getCovidSummary": "node GetCovidSummaryData.js",
+    "getUnemploymentClaim": "node GetUnemploymentClaimData.js",
+    "_start": "npm run getCovidSummary && npm run uploadData && npm run uploadJCL && npm run uploadCBL && npm run submit",
+    "start": "npm run uploadJCL && npm run uploadCBL && npm run uploadSUB && npm run submit",
+    "__start": "npm run uploadCBL && npm run submit"    
+  },
+  "config": {
+    "userid": "ZXXXXXXX",
+    "_cbl": "covidrpt",
+    "_jcl": "covidrpj",
+    "_data": "./data/summary.csv",
+    "cbl": "unempclm",
+    "sub": "getclaim",
+    "jcl": "unempclj",  
+    "data": "./data/claims.csv"
+  },
+  "author": "InTheLamp",
+  "license": "MIT",
+  "dependencies": {
+    "n-readlines": "^1.0.1"
+  }
+}

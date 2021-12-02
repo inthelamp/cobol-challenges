@@ -1,0 +1,175 @@
+Unemployment Claims [ DELETED ]
+Year 2021  Month 12  Day 01
+RECORD-ID : 01012017
+**********************************************************************
+DATE :                                          2017-01-01T00:00:00
+**************************** BY AGE       ****************************
+<22 :                                           566
+22-24 :                                         1527
+25-34 :                                         8283
+35-44 :                                         8412
+45-54 :                                         8700
+55-59 :                                         4529
+60-64 :                                         2971
+>=65 :                                          2444
+**************************** BY ETHNICITY ****************************
+Hispanic or Latino :                            1676
+Not Hispanic or Latino :                        30172
+**************************** BY INDUSTRY  ****************************
+Wholesale Trade :                               1239
+Transportation & Warehouse :                    1440
+Construction :                                  7046
+Finance & Insurance :                           766
+Manufacturing :                                 3851
+Agricult./Forestry/Fishing/Hunting :            482
+Public Administration :                         411
+Utilities :                                     43
+Accomodation & Food Services :                  3695
+Information :                                   560
+Professional/Scientific/Tech. Services :        1460
+Real Estate & Rental & Leasing :                597
+Other Services (except Public Administration) : 776
+Management of Companies & Enterprises :         167
+Educational Services :                          584
+Mining :                                        162
+Health Care & Social Assistance :               2638
+Arts, Entertainment & Recreation :              1724
+Admin. & Support/Waste Mgmt./Remedia. Serv. :   4972
+Retail Trade :                                  3042
+**************************** BY RACE      ****************************
+White :                                         26362
+Asian :                                         392
+Black or African American :                     6461
+American Indian or Alaskan Native :             226
+Native Hawaiian or Other Pacific Islander :     704
+**************************** BY GENDER    ****************************
+FEMALE :                                        14186
+MALE :                                          23167
+**********************************************************************
+
+
+Unemployment Claims [ INSERTED ]
+Year 2021  Month 12  Day 01
+RECORD-ID : 01012017
+**********************************************************************
+DATE :                                          2017-01-01T00:00:00
+**************************** BY AGE       ****************************
+<22 :                                           588
+22-24 :                                         1527
+25-34 :                                         8283
+35-44 :                                         8412
+45-54 :                                         8700
+55-59 :                                         4529
+60-64 :                                         2971
+>=65 :                                          2444
+**************************** BY ETHNICITY ****************************
+Hispanic or Latino :                            1676
+Not Hispanic or Latino :                        30172
+**************************** BY INDUSTRY  ****************************
+Wholesale Trade :                               1239
+Transportation & Warehouse :                    1440
+Construction :                                  7046
+Finance & Insurance :                           766
+Manufacturing :                                 3851
+Agricult./Forestry/Fishing/Hunting :            482
+Public Administration :                         411
+Utilities :                                     43
+Accomodation & Food Services :                  3695
+Information :                                   560
+Professional/Scientific/Tech. Services :        1460
+Real Estate & Rental & Leasing :                597
+Other Services (except Public Administration) : 776
+Management of Companies & Enterprises :         167
+Educational Services :                          584
+Mining :                                        162
+Health Care & Social Assistance :               2638
+Arts, Entertainment & Recreation :              1724
+Admin. & Support/Waste Mgmt./Remedia. Serv. :   4972
+Retail Trade :                                  3042
+**************************** BY RACE      ****************************
+White :                                         26362
+Asian :                                         392
+Black or African American :                     6461
+American Indian or Alaskan Native :             226
+Native Hawaiian or Other Pacific Islander :     704
+**************************** BY GENDER    ****************************
+FEMALE :                                        14186
+MALE :                                          23167
+**********************************************************************
+
+
+Unemployment Claims [ UPDATED ]
+Year 2021  Month 12  Day 01
+RECORD-ID : 01012017
+**********************************************************************
+DATE :                                          2017-01-01T00:00:00
+**************************** BY AGE       ****************************
+<22 :                                           400
+22-24 :                                         1000
+25-34 :                                         8000
+35-44 :                                         8412
+45-54 :                                         8700
+55-59 :                                         4529
+60-64 :                                         2971
+>=65 :                                          2444
+**************************** BY ETHNICITY ****************************
+Hispanic or Latino :                            1676
+Not Hispanic or Latino :                        30172
+**************************** BY INDUSTRY  ****************************
+Wholesale Trade :                               1239
+Transportation & Warehouse :                    1440
+Construction :                                  8000
+Finance & Insurance :                           766
+Manufacturing :                                 3851
+Agricult./Forestry/Fishing/Hunting :            482
+Public Administration :                         411
+Utilities :                                     43
+Accomodation & Food Services :                  4000
+Information :                                   560
+Professional/Scientific/Tech. Services :        1460
+Real Estate & Rental & Leasing :                597
+Other Services (except Public Administration) : 776
+Management of Companies & Enterprises :         167
+Educational Services :                          584
+Mining :                                        162
+Health Care & Social Assistance :               2638
+Arts, Entertainment & Recreation :              1724
+Admin. & Support/Waste Mgmt./Remedia. Serv. :   4972
+Retail Trade :                                  3042
+**************************** BY RACE      ****************************
+White :                                         26362
+Asian :                                         392
+Black or African American :                     6461
+American Indian or Alaskan Native :             226
+Native Hawaiian or Other Pacific Islander :     704
+**************************** BY GENDER    ****************************
+FEMALE :                                        14186
+MALE :                                          23167
+**********************************************************************
+
+
+                                                                                                                                                                                                                                                                                   Unemployment Claims By Industry
+Year 2021  Month 12  Day 01
+Record ID         Date          Wholesale Trade  Transportation & Warehouse  Construction  Finance & Insurance  Manufacturing  Agricult./Forestry/Fishing/Hunting  Public Administration  Utilities  Accommodation & Food Services  Information  Professional/Scientific/Tech. Services  Real Estate & Rental & Leasing  Other Services (except Public Administration)  Management of Companies & Enterprises  Educational Services  Mining  Health Care & Social Assistance  Arts, Entertainment & Recreation  Admin. & Support/Waste Mgmt./Remedia. Serv.  Retail Trade
+*********  *******************  ***************  **************************  ************  *******************  *************  **********************************  *********************  *********  *****************************  ***********  **************************************  ******************************  *********************************************  *************************************  ********************  ******  *******************************  ********************************  *******************************************  ************
+01012017   2017-01-01T00:00:00  1239             1440                        8000          766                  3851           482                                 411                    43         4000                           560          1460                                    597                             776                                            167                                    584                   162     2638                             1724                              4972                                         3042
+01012018   2018-01-01T00:00:00  1201             1308                        8486          783                  3454           418                                 383                    31         3552                           821          1330                                    529                             684                                            166                                    472                   205     2590                             1571                              4639                                         2843
+01012019   2019-01-01T00:00:00  1020             996                         5328          804                  2304           370                                 320                    23         3372                           498          1224                                    453                             609                                            168                                    493                   154     2260                             1517                              3729                                         2605
+01012020   2020-01-01T00:00:00  887              1174                        5430          689                  5048           289                                 268                    33         2777                           374          1074                                    489                             538                                            149                                    305                   125     1934                             1449                              3284                                         2240
+01012021   2021-01-01T00:00:00  1901             2064                        7463          1070                 4286           384                                 503                    56         8874                           799          2210                                    917                             1543                                           310                                    891                   138     6268                             1984                              7000                                         5442
+02012012   2012-02-01T00:00:00  2017             2783                        13213         1274                 6134           549                                 691                    45         6192                           1004         1820                                    1123                            1850                                           294                                    1099                  474     4971                             1978                              8222                                         6132
+02012013   2013-02-01T00:00:00  1896             2521                        10449         1273                 6530           553                                 683                    56         5445                           857          1685                                    1038                            1567                                           236                                    929                   387     4650                             1747                              7577                                         5276
+02012014   2014-02-01T00:00:00  1844             2772                        13830         1696                 5734           566                                 633                    72         5338                           937          1950                                    970                             1433                                           239                                    852                   593     4828                             1682                              7700                                         5059
+02012015   2015-02-01T00:00:00  1508             1689                        9046          1000                 6360           533                                 499                    64         4337                           684          1440                                    687                             1022                                           275                                    661                   223     3380                             1850                              6220                                         3844
+02012016   2016-02-01T00:00:00  1313             1385                        9124          806                  4312           494                                 436                    38         3947                           525          1539                                    649                             846                                            199                                    526                   270     2916                             1990                              5842                                         3384
+02012017   2017-02-01T00:00:00  1202             1278                        6124          831                  4181           392                                 389                    47         3072                           572          1404                                    606                             760                                            162                                    494                   142     2498                             1644                              4458                                         2982
+02012018   2018-02-01T00:00:00  1178             1122                        7198          772                  2750           377                                 344                    32         2870                           747          1248                                    533                             684                                            190                                    411                   132     2601                             1523                              4236                                         2758
+02012020   2020-02-01T00:00:00  950              980                         6182          707                  2643           302                                 273                    28         2442                           363          1107                                    483                             517                                            167                                    317                   138     1890                             1393                              3405                                         2138
+02012021   2021-02-01T00:00:00  1942             2628                        11137         1177                 5709           419                                 494                    53         7707                           777          1992                                    837                             1459                                           329                                    874                   269     6286                             1819                              7479                                         5648
+03012012   2012-03-01T00:00:00  1911             2432                        10447         1308                 5468           355                                 553                    63         5238                           915          1698                                    1000                            1792                                           273                                    1091                  253     5041                             1320                              6799                                         5682
+03012014   2014-03-01T00:00:00  1631             1788                        8343          1620                 5063           418                                 521                    62         4331                           852          1770                                    842                             1218                                           217                                    774                   318     4671                             1105                              6020                                         4337
+03012015   2015-03-01T00:00:00  1530             1469                        8222          961                  3828           423                                 473                    42         3621                           700          1378                                    631                             903                                            263                                    643                   229     3467                             1050                              5159                                         3432
+03012016   2016-03-01T00:00:00  1166             1106                        5946          757                  3599           325                                 368                    32         2765                           430          1360                                    569                             694                                            155                                    432                   198     2619                             994                               4175                                         2652
+03012017   2017-03-01T00:00:00  1127             1731                        5151          812                  3507           247                                 361                    41         2497                           504          1390                                    447                             673                                            144                                    448                   100     2569                             691                               3914                                         2630
+03012018   2018-03-01T00:00:00  1062             1044                        5100          797                  2425           227                                 300                    27         2237                           635          1142                                    446                             551                                            162                                    401                   72      2473                             596                               3158                                         2306
+*********  *******************  ***************  **************************  ************  *******************  *************  **********************************  *********************  *********  *****************************  ***********  **************************************  ******************************  *********************************************  *************************************  ********************  ******  *******************************  ********************************  *******************************************  ************
