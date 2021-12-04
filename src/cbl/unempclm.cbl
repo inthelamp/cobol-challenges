@@ -791,8 +791,8 @@
       *--------------*
            SET   C-STATUS-OK TO TRUE.      
 
-           PERFORM 1000-FILE-OPEN        
-              THRU 1000-FILE-OPEN-EXIT.
+           PERFORM 1000-OPEN-FILE        
+              THRU 1000-OPEN-FILE-EXIT.
 
            PERFORM 2000-ACCEPT-INPUT     
               THRU 2000-ACCEPT-INPUT-EXIT.
@@ -831,16 +831,16 @@
               END-IF   
            END-PERFORM.
 
-           PERFORM 9000-FILE-CLOSE      
-              THRU 9000-FILE-CLOSE-EXIT.
+           PERFORM 9000-CLOSE-FILE      
+              THRU 9000-CLOSE-FILE-EXIT.
 
            GOBACK.
       *
 
-       1000-FILE-OPEN.
+       1000-OPEN-FILE.
       *--------------*
            OPEN OUTPUT OUT001.     
-       1000-FILE-OPEN-EXIT.
+       1000-OPEN-FILE-EXIT.
       *-------------------*
            EXIT.
 
@@ -1406,10 +1406,10 @@
       *------------------------* 
            EXIT.
       
-       9000-FILE-CLOSE.
+       9000-CLOSE-FILE.
       *---------------*
            CLOSE OUT001.
-       9000-FILE-CLOSE-EXIT.
+       9000-CLOSE-FILE-EXIT.
       *--------------------*
            EXIT.
 

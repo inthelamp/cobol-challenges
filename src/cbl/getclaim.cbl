@@ -84,8 +84,8 @@
       *--------------*
            SET C-STATUS-OK TO TRUE.
 
-           PERFORM 1000-FILE-OPEN       
-              THRU 1000-FILE-OPEN-EXIT.
+           PERFORM 1000-OPEN-FILE       
+              THRU 1000-OPEN-FILE-EXIT.
 
            EVALUATE TRUE
               WHEN C-COMMAND-READ
@@ -106,15 +106,15 @@
                     THRU 9999-ABEND-PARA-EXIT
            END-EVALUATE.
 
-           PERFORM 9000-FILE-CLOSE      
-              THRU 9000-FILE-CLOSE-EXIT.
+           PERFORM 9000-CLOSE-FILE      
+              THRU 9000-CLOSE-FILE-EXIT.
 
            MOVE WS-RETURN-CODE TO LS-RETURN-CODE.
 
            EXIT PROGRAM.
       *
 
-       1000-FILE-OPEN.
+       1000-OPEN-FILE.
       *--------------*
            IF LS-NUM-OF-RECS >= 1 THEN
                OPEN I-O UNEMP-CLAIM-FILE
@@ -131,7 +131,7 @@
                PERFORM 7000-NEED-GT-ZERO 
                   THRU 7000-NEED-GT-ZERO-EXIT
            END-IF.
-       1000-FILE-OPEN-EXIT.
+       1000-OPEN-FILE-EXIT.
       *-------------------*
            EXIT.
 
@@ -358,14 +358,14 @@
            EXIT.
 
 
-       9000-FILE-CLOSE.
+       9000-CLOSE-FILE.
       *---------------*
            IF WS-VSAM-OPEN = 'Y'
               CLOSE UNEMP-CLAIM-FILE
 
               DISPLAY 'FILE CLOSED'         
            END-IF.
-       9000-FILE-CLOSE-EXIT.
+       9000-CLOSE-FILE-EXIT.
       *--------------------*
            EXIT.
 
