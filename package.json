@@ -15,18 +15,19 @@
     "getCovidSummary": "node GetCovidSummaryData.js",
     "getUnemploymentClaim": "node GetUnemploymentClaimData.js",
     "_start": "npm run getCovidSummary && npm run uploadData && npm run uploadJCL && npm run uploadCBL && npm run submit",
-    "start": "npm run uploadJCL && npm run uploadCBL && npm run uploadSUB && npm run submit",
-    "__start": "npm run uploadCBL && npm run submit"    
+    "__start": "npm run uploadJCL && npm run uploadCBL && npm run uploadSUB && npm run submit",
+    "start": "npm run uploadJCL && npm run uploadCBL && npm run submit"
   },
   "config": {
     "userid": "ZXXXXXXX",
     "_cbl": "covidrpt",
     "_jcl": "covidrpj",
     "_data": "./data/summary.csv",
-    "cbl": "unempclm",
-    "sub": "getclaim",
-    "jcl": "unempclj",  
-    "data": "./data/claims.csv"
+    "cbl": "newsrank",
+    "_sub": "getclaim",
+    "jcl": "newsranj",  
+    "__jcl": "allocfda",
+    "__data": "./data/claims.csv"
   },
   "author": "InTheLamp",
   "license": "MIT",
