@@ -1,55 +1,55 @@
-1                                                       Hacker News Front Page    12/03/2021 at 23:59
+1                                                       Hacker News Front Page    12/06/2021 at 23:59
                                                         All Mainframe/COBOL stories
  ----------------------------------------------------------------------------------------------------------------------------------------------------------
     ID                                                   TITLE                                              Points Comments Author         Time    Score
  ----------------------------------------------------------------------------------------------------------------------------------------------------------
- 11376711  An 18 Year Old Buys a Mainframe [video]                                                           653    174     tbatchelli     19:33   7.091299
- 12096250  "Interviewing my mother, a mainframe COBOL programmer"                                            534    273     Svenskunganka  18:35   4.573043
- 11717632  A Node.js bridge for COBOL                                                                         73     52     reimertz       21:31   2.524398
- 12039703  LzLabs launches product to move mainframe COBOL code to Linux cloud                                30      2     CrankyBear     21:33   1.219580
- 10880931  IBM ported Go to s390x mainframes                                                                 220    120     pythonist      14:34   0.995058
- 10447581  Qui-binary arithmetic: how a 1960s IBM mainframe does math                                         76      8     JoachimS       17:36   0.749008
- 10408692  Fixing the core memory in a vintage IBM 1401 mainframe                                             89     13     kens           16:30   0.688572
- 11112124  IBM Launches New Mainframe with Focus on Security and Hybrid Cloud                                 40     21     protomyth      18:45   0.564514
- 12317098  COBOL in the cloud                                                                                  2      0     Rauchg         23:53   0.287174
- 11763733  Finally: Brainfuck is ready for the mainframe/enterprise                                           20     11     flok           17:43   0.249712
- 12333862  Mainframes as a lifestyle choice                                                                  113     44     k4rtik          3:09   0.167114
- 10964105  C++ getting a 50 year old cobol feature                                                             2      0     petke          21:29   0.082469
- 10384287  Open source projects for modern COBOL development                                                  53     27     vezzy-fnord     0:07   0.071863
- 11856986  ?Puppet DevOps comes to the mainframe                                                               3      0     CrankyBear     19:16   0.069207
- 10191432  Visual Studio 2015 now supports COBOL desktop and web apps                                          9      0     lonefounder    13:54   0.060248
- 11536087  Mainframes That Handle Our Most Sensitive Data Are Open to Internet Attacks                         4      0     rbanffy        17:28   0.057034
- 11912067  The mainframe is dead. Long live the mainframe (rumor Z Systems division sale)                      2      0     protomyth      20:52   0.055189
- 11483353  "Want to Open Your Bank to APIs? Not with That Mainframe, You Don't"                                2      0     jackgavigan    20:36   0.055189
- 12122912  COBOL and Legacy Code as a Systemic Risk                                                            4      0     mooreds        16:56   0.046138
- 10187828  12-minute Mandelbrot: fractals on a 50 year old IBM 1401 mainframe                                  2      0     coloneltcb     19:50   0.039749
- 10531906  Restoring RAM: Fixing memory inside a 50-year-old IBM mainframe                                    10      1     ghosh           8:31   0.035365
- 10647448  Is SystemVerilog the COBOL of Electronic Design?                                                   16     15     BooneJS         3:15   0.033458
- 11448764  Eigen library on mainframe  ported to zEC13 SIMD                                                    3      1     edelsohn       16:58   0.033357
- 10801995  "Yes, the World Still Needs COBOL Programmers"                                                      3      3     SunTzu55       16:50   0.033357
- 11816903  Unit-testing COBOL programs on IBM mainframes                                                       2      0     rbanffy        18:27   0.030117
- 11405514  First COBOL Coding Bootcamp  Grace Hopper Academy                                                   3      1     dy             15:30   0.027594
- 10466052  Python vs. R vs. COBOL: Which Is Best for Data Science?                                             2      0     gexos          17:48   0.023683
- 11805879  SUSE: OpenStack for the mainframe and beyond                                                        4      0     CrankyBear     11:19   0.020828
- 10238442  ObjC is our generations COBOL                                                                       4      4     tl             10:57   0.018396
- 11720141  Why are we still using Mainframes?                                                                  6     18     parialegend     6:22   0.018089
- 11108734  IBM Launches New Mainframe with Focus on Security and Hybrid Cloud                                  4      0     romarv          9:23   0.016378
- 11372150  What happens when a 18 years old buys a mainframe                                                   8      2     znpy            0:54   0.014447
- 11922710  Rumors of COBOL's demise have been greatly exaggerated: Meet GnuCOBOL                               2      0     alxsanchez     14:11   0.013350
- 10231540  New Ubuntu distribution for IBM mainframes                                                          3      0     technolo-g      4:17   0.007258
- 11173371  "OpenMainframe announces new investments, tech focus and internship program"                        2      0     jrepin          9:46   0.006801
- 10201440  Pitfalls of Invalid Programs and Data in COBOL                                                      3      0     snake117        0:53   0.005303
+ 11376711  An 18 Year Old Buys a Mainframe [video]                                                           653    174     tbatchelli     19:33   6.254802
+ 12096250  "Interviewing my mother, a mainframe COBOL programmer"                                            534    273     Svenskunganka  18:35   4.137754
+ 11717632  A Node.js bridge for COBOL                                                                         73     52     reimertz       21:31   2.069649
+ 12039703  LzLabs launches product to move mainframe COBOL code to Linux cloud                                30      2     CrankyBear     21:33   1.013454
+ 10880931  IBM ported Go to s390x mainframes                                                                 220    120     pythonist      14:34   0.930646
+ 10447581  Qui-binary arithmetic: how a 1960s IBM mainframe does math                                         76      8     JoachimS       17:36   0.688492
+ 10408692  Fixing the core memory in a vintage IBM 1401 mainframe                                             89     13     kens           16:30   0.626695
+ 11112124  IBM Launches New Mainframe with Focus on Security and Hybrid Cloud                                 40     21     protomyth      18:45   0.532160
+ 12317098  COBOL in the cloud                                                                                  2      0     Rauchg         23:53   0.263029
+ 11763733  Finally: Brainfuck is ready for the mainframe/enterprise                                           20     11     flok           17:43   0.235401
+ 12333862  Mainframes as a lifestyle choice                                                                  113     44     k4rtik          3:09   0.156296
+ 10384287  Open source projects for modern COBOL development                                                  53     27     vezzy-fnord     0:07   0.067588
+ 10964105  C++ getting a 50 year old cobol feature                                                             2      0     petke          21:29   0.066714
+ 10191432  Visual Studio 2015 now supports COBOL desktop and web apps                                          9      0     lonefounder    13:54   0.059502
+ 11856986  ?Puppet DevOps comes to the mainframe                                                               3      0     CrankyBear     19:16   0.056486
+ 11912067  The mainframe is dead. Long live the mainframe (rumor Z Systems division sale)                      2      0     protomyth      20:52   0.052944
+ 11536087  Mainframes That Handle Our Most Sensitive Data Are Open to Internet Attacks                         4      0     rbanffy        17:28   0.050957
+ 11483353  "Want to Open Your Bank to APIs? Not with That Mainframe, You Don't"                                2      0     jackgavigan    20:36   0.048317
+ 12122912  COBOL and Legacy Code as a Systemic Risk                                                            4      0     mooreds        16:56   0.045680
+ 10187828  12-minute Mandelbrot: fractals on a 50 year old IBM 1401 mainframe                                  2      0     coloneltcb     19:50   0.038021
+ 10531906  Restoring RAM: Fixing memory inside a 50-year-old IBM mainframe                                    10      1     ghosh           8:31   0.033683
+ 11448764  Eigen library on mainframe  ported to zEC13 SIMD                                                    3      1     edelsohn       16:58   0.033246
+ 10801995  "Yes, the World Still Needs COBOL Programmers"                                                      3      3     SunTzu55       16:50   0.032379
+ 10647448  Is SystemVerilog the COBOL of Electronic Design?                                                   16     15     BooneJS         3:15   0.031541
+ 11816903  Unit-testing COBOL programs on IBM mainframes                                                       2      0     rbanffy        18:27   0.026389
+ 11405514  First COBOL Coding Bootcamp  Grace Hopper Academy                                                   3      1     dy             15:30   0.025346
+ 10466052  Python vs. R vs. COBOL: Which Is Best for Data Science?                                             2      0     gexos          17:48   0.022736
+ 11805879  SUSE: OpenStack for the mainframe and beyond                                                        4      0     CrankyBear     11:19   0.019155
+ 10238442  ObjC is our generations COBOL                                                                       4      4     tl             10:57   0.018323
+ 11720141  Why are we still using Mainframes?                                                                  6     18     parialegend     6:22   0.017078
+ 11108734  IBM Launches New Mainframe with Focus on Security and Hybrid Cloud                                  4      0     romarv          9:23   0.015328
+ 11372150  What happens when a 18 years old buys a mainframe                                                   8      2     znpy            0:54   0.014361
+ 11922710  Rumors of COBOL's demise have been greatly exaggerated: Meet GnuCOBOL                               2      0     alxsanchez     14:11   0.011765
+ 10231540  New Ubuntu distribution for IBM mainframes                                                          3      0     technolo-g      4:17   0.006842
+ 11173371  "OpenMainframe announces new investments, tech focus and internship program"                        2      0     jrepin          9:46   0.006638
+ 10201440  Pitfalls of Invalid Programs and Data in COBOL                                                      3      0     snake117        0:53   0.005265
  10320620  Yo sysprog: Cobol lives on in Visual Studio 2015                                                    1      0     tmaxxcar       19:16   0.000000
- 10981345  ?The mainframe lives on in IBM's LinuxONE                                                           1      0     CrankyBear     17:22   0.000000
+ 11418787  Ask HN: Mimic Mainframe Financial Computations in Real-Time                                         1      1     furiousandre    1:13   0.000000
  10474289  Restoring RAM: Fixing memory inside a 50-year-old IBM mainframe                                     1      1     TimMeade       21:07   0.000000
  10572194  Ask HN: What happened to the old mainframes? Were many preserved?                                   1      4     hoodoof         1:57   0.000000
  ----------------------------------------------------------------------------------------------------------------------------------------------------------
 1----------------------------------------------------------------------------------------------------------------------------------------------------------
     ID                                                   TITLE                                              Points Comments Author         Time    Score
  ----------------------------------------------------------------------------------------------------------------------------------------------------------
+ 10981345  ?The mainframe lives on in IBM's LinuxONE                                                           1      0     CrankyBear     17:22   0.000000
  11104447  COBOL and Salaries                                                                                  1      1     j_koreth       17:09   0.000000
  11363320  Mainframes and the Unix Revolution  Computerphile                                                   1      0     doener         22:49   0.000000
- 11418787  Ask HN: Mimic Mainframe Financial Computations in Real-Time                                         1      1     furiousandre    1:13   0.000000
  11708388  Node.cobolA Node.js bridge for COBOL allowing you to execute JavaScript in COBOL                    1      0     ionicabizau    18:24   0.000000
  11717754  "Who put this JavaScript in my COBOL? Node.cobol, thats who"                                        1      0     shawndumas     21:46   0.000000
  11784701  US government uses floppy disks and COBOL to manage critical IT systems [pdf]                       1      0     campuscodi      8:44   0.000000

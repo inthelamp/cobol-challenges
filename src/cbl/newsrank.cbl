@@ -46,7 +46,7 @@
        01  WS-SCORE-POINT             PIC S9999V999999 COMP-3.
        01  WS-SCORE-AGE               PIC S9999V999999 COMP-3.
 
-       01  WS-AGE-HOURS               PIC 9(2) COMP.
+       01  WS-AGE-HOURS               PIC 9(2)V99999   COMP-3.
        01  WS-POST-TIME.   
            05  WS-POST-HOUR           PIC 9(2).
            05  FILLER                 PIC X(1) VALUE ':'.
