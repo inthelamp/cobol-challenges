@@ -1,4 +1,4 @@
-Solutions for challenges presented at [COBOL Programming Course](https://github.com/openmainframeproject/cobol-programming-course).
+Solutions for challenges presented by [COBOL Programming Course](https://github.com/openmainframeproject/cobol-programming-course).
 
 [COBOL Challenge - The COVID-19 Reports](https://github.com/openmainframeproject/cobol-programming-course/blob/master/COBOL%20Programming%20Course%20%232%20-%20Advanced%20Topics/COBOL%20Programming%20Course%20%232%20-%20Advanced%20Topics.md#advanced-tasks)
 
@@ -14,7 +14,7 @@ Solutions for challenges presented at [COBOL Programming Course](https://github.
 ![alt text](https://github.com/inthelamp/cobol-challenges/blob/main/covid19-report.png?raw=true "Advanced one")
 
 
-[COBOL Challenge - The Unemployment Claims](https://github.com/openmainframeproject/cobol-programming-course/blob/master/COBOL%20Programming%20Course%20%232%20-%20Advanced%20Topics/COBOL%20Programming%20Course%20%232%20-%20Advanced%20Topics.md#cobol-challenge---the-unemployment-claims)
+[COBOL Challenge - The Unemployment Claims](https://github.com/openmainframeproject/cobol-programming-course/blob/master/COBOL%20Programming%20Course%20%232%20-%20Advanced%20Topics/COBOL%20Programming%20Course%20%232%20-%20Advanced%20Topics.md#cobol-challenge---the-unemployment-claims) <br />
 
 > COBOL programs:<br />
 >> Main program: [UNEMPCLM](https://github.com/inthelamp/cobol-challenges/blob/main/src/cbl/unempclm.cbl) <br />
@@ -27,8 +27,18 @@ Solutions for challenges presented at [COBOL Programming Course](https://github.
 >> [GetUnemploymentClaimData](https://github.com/inthelamp/cobol-challenges/blob/main/GetUnemploymentClaimData.js) <br />
 >> [UnemploymentClaims](https://github.com/inthelamp/cobol-challenges/blob/main/controllers/UnemploymentClaims.js) <br />
 
-> Features
+> Features <br />
 >> VSAM KSDS <br />
 >> Dynamic Access <br />
 >> Defining variable-length records <br />
->> Read, Delete, Insert and Update functions 
+>> Read, Delete, Insert and Update functions. <br />
+
+[Hacker News Rankings for Mainframe/COBOL Posts](https://github.com/openmainframeproject/cobol-programming-course/blob/master/COBOL%20Programming%20Course%20%232%20-%20Advanced%20Topics/COBOL%20Programming%20Course%20%232%20-%20Advanced%20Topics.md#hacker-news-rankings-for-mainframecobol-posts) <br />
+
+> COBOL program: [NEWSRANK](https://github.com/inthelamp/cobol-challenges/blob/main/src/cbl/newsrank.cbl) <br />
+> JCL: [NEWSRANJ](https://github.com/inthelamp/cobol-challenges/blob/main/src/jcl/newsranj.jcl) <br />
+> OUTPUT: [HNRANK](https://github.com/inthelamp/cobol-challenges/blob/main/output/HNRANK.txt) 
+
+> Features <br />
+>> Packed-decimal data items <br /> 
+>> DFSORT
