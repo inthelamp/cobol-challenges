@@ -7,7 +7,7 @@ Solutions for challenges presented by [COBOL Programming Course](https://github.
 > JCL: [COVIDRPJ](https://github.com/inthelamp/cobol-challenges/blob/main/src/jcl/covidrpj.jcl) <br />
 > OUTPUT: [OUTCOVID](https://github.com/inthelamp/cobol-challenges/blob/main/output/OUTCOVID.txt) <br />
 
-> JavaScript programs: <br />
+> Node.js programs: <br />
 >> [GetCovidSummaryData](https://github.com/inthelamp/cobol-challenges/blob/main/GetCovidSummaryData.js) <br />
 >> [CovidSummary](https://github.com/inthelamp/cobol-challenges/blob/main/controllers/CovidSummary.js) <br />
 > Screenshot of the output for the second challenge <br />
@@ -23,7 +23,7 @@ Solutions for challenges presented by [COBOL Programming Course](https://github.
 > JCL: [UNEMPCLJ](https://github.com/inthelamp/cobol-challenges/blob/main/src/jcl/unempclj.jcl) <br />
 > OUTPUT: [OUTCLAIM](https://github.com/inthelamp/cobol-challenges/blob/main/output/OUTCLAIM.txt) <br />
 
-> JavaScript programs: <br />
+> Node.js programs: <br />
 >> [GetUnemploymentClaimData](https://github.com/inthelamp/cobol-challenges/blob/main/GetUnemploymentClaimData.js) <br />
 >> [UnemploymentClaims](https://github.com/inthelamp/cobol-challenges/blob/main/controllers/UnemploymentClaims.js) <br />
 
