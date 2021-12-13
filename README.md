@@ -31,7 +31,8 @@ Solutions for challenges presented by [COBOL Programming Course](https://github.
 >> VSAM KSDS <br />
 >> Dynamic Access <br />
 >> Defining variable-length records <br />
->> Read, Delete, Insert and Update functions. <br /><br />
+>> Read, Delete, Insert and Update functions.
+<br /><br />
 
 [COBOL Challenge - Hacker News Rankings for Mainframe/COBOL Posts](https://github.com/openmainframeproject/cobol-programming-course/blob/master/COBOL%20Programming%20Course%20%232%20-%20Advanced%20Topics/COBOL%20Programming%20Course%20%232%20-%20Advanced%20Topics.md#hacker-news-rankings-for-mainframecobol-posts) <br />
 
